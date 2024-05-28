@@ -1,0 +1,24 @@
+# data
+**/data/ 
+**/data*.*
+
+# vscode / js / csv
+**/origin/
+**/.vscode
+**/*.csv
+**/*.json
+**/*.js
+
+# image
+**/*.jpg
+**/*.png
+**/*.svg
+**/.psd
+**/.ai
+**/.pdf
+
+# css
+**/*.scss
+**/*.css
+!*.min.css
+!*.min.scss
