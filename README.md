@@ -1,6 +1,6 @@
-# Greenpeace
+# 🍀Greenpeace
 
-# 지구의 환경보호와 평화를 위해 노력하는 Greenpeace 입니다.🍀
+# 지구환경보호와 평화를 위해 노력하는 Greenpeace입니다.
 
 #환경보호 #환경단체 #지구야_아프지마 #웹페이지_개선
 
